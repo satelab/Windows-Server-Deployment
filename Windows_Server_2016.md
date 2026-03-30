@@ -36,6 +36,7 @@ The wizard shows us a summary of everything we've set up so far. We double-check
 <img width="452" height="238" alt="image" src="https://github.com/user-attachments/assets/e02387af-1698-492e-94c5-c73d77ad4151" />
 <img width="452" height="239" alt="image" src="https://github.com/user-attachments/assets/aa9bccfb-927c-4e90-bd25-94c7424be2ff" />
 <img width="452" height="239" alt="image" src="https://github.com/user-attachments/assets/3aefad4e-9d85-4f1e-b96f-3f6f59dda2ba" />
+
 Once created, we see the new Server 2019 VM sitting in VMware Workstation. It's powered off and ready for the next step. We open the settings for the VM and go to the CD/DVD section. Here, we attach the Windows Server 2019 ISO file so the VM can boot from it. We make sure the ISO is connected and set it to automatically connect whenever the VM powers on. This way, when we start the VM, it will immediately begin installing Windows Server.
 
 <img width="452" height="233" alt="image" src="https://github.com/user-attachments/assets/0b906663-a0c8-4434-9aec-98ccd64e329c" />
