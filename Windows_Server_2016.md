@@ -394,6 +394,7 @@ Click Change... > Select Domain > Type dumebi.local.
 
 
 
+
 oEnter the Server's Admin credentials (DUMEBI\Administrator and your password).
 
 
